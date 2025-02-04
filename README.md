@@ -1,7 +1,7 @@
 # Caesar Cipher
 
 ## Description
-This in my first project at PRODIGYINFOTECH Internship program, it is a simple Python program that implements the Caesar Cipher algorithm for encrypting and decrypting text. The Caesar Cipher is a basic encryption technique where each letter in the text is shifted by a certain number of places in the alphabet. This project allows users to input a message and a shift value to perform encryption and decryption.
+This is my first project at PRODIGYINFOTECH Internship program, it is a simple Python program that implements the Caesar Cipher algorithm for encrypting and decrypting text. The Caesar Cipher is a basic encryption technique where each letter in the text is shifted by a certain number of places in the alphabet. This project allows users to input a message and a shift value to perform encryption and decryption.
 
 ## Features
 - Encrypts text using the Caesar Cipher algorithm.
